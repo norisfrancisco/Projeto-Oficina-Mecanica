@@ -31,7 +31,7 @@ A partir da OS, o sistema calcula o custo de cada serviço, baseado em uma tabel
 
 ## 🛠️ Diagrama Conceitual
 
-![Modelo Conceitual Oficina Mecânica](modelos/modelo_oficina.png)
+![Modelo Oficina](modelos/modelo_oficina.png)
 
 > Caso algum ponto da narrativa não esteja detalhado, utilizei suposições baseadas no funcionamento típico de oficinas, descritas neste README.
 
